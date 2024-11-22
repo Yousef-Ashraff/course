@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-1 - fasfga
-2 - dgshs
-=======
-1 - 
->>>>>>> e5e03ddbf4f67284951635cfd47dd15648fb0373
+ 5 - ccccccccc
